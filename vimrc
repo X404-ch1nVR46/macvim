@@ -16,4 +16,7 @@ set autoindent
 set hlsearch
 set showmatch
 
+colorscheme gruvbox
+set background=dark
+
 execute pathogen#infect()
